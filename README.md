@@ -29,7 +29,6 @@
 - 🤝 Teamwork and collaboration to create awe-inspiring projects.  
 
 ## 🚀 Goals & Aspirations  
-- 🎯 Ace the **Efftronics** technical interview!  
 - 🌱 Expand knowledge in **AI**, **Machine Learning**, and **IoT**.  
 - 🔗 Contribute to open-source projects and grow with the developer community.  
 
