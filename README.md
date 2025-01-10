@@ -34,8 +34,9 @@
 - 🔗 Contribute to open-source projects and grow with the developer community.  
 
 ## 📬 Let’s Connect & Collaborate!  
-[![GitHub](https://github.com/shivangjoshii)  
-[![Portfolio](https://pawanjoshii.github.io/web-portfolio/)   
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivangjoshii)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://pawanjoshii.github.io/web-portfolio/)  
+   
 
 ### ⚡ Fun Facts About Me:
 - 🎮 Cyber 🎭 by night, coder by day + night !  
