@@ -38,7 +38,7 @@
 [![Portfolio](https://pawanjoshii.github.io/web-portfolio/)   
 
 ### ⚡ Fun Facts About Me:
-- 🎮 Gamer by night, coder by day!  
+- 🎮 Cyber 🎭 by night, coder by day + night !  
 - 🍕 Obsessed with exploring new cuisines.  
 - 🌌 Fascinated by the mysteries of the universe.
 - 
