@@ -22,6 +22,8 @@
 - **📈 Miscellaneous:**  
   🧠 Data Structures & Algorithms | 🏗️ System Design | 🌐 IoT  
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shivangjoshii&show_icons=true&hide_title=true)
+
 ## 🌟 What Makes Me Tick?  
 - ✨ Transforming ideas into innovative solutions.  
 - 🔍 Continuously learning and experimenting with new technologies.  
