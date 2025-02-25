@@ -8,7 +8,7 @@
 
 ## 🛠️ My Tech Toolbox  
 - **💻 Programming Languages:**  
-  🐍 Python | ☕ Java | 💡 JavaScript | 🖋️ C++  
+  🐍 Python | ☕ Java | 💡 JavaScript | 🖋️ C++  | Dart 👨‍💻 |
 
 - **🌐 Web Development:**  
   🎨 HTML | 🎨 CSS | ⚛️ React.js | 🛠️ Node.js  
