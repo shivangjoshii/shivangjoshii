@@ -2,7 +2,7 @@
 
 ## 👋 Hey there! I'm Pawan !  
 🌟 A passionate learner, tech enthusiast, and problem-solver on a mission to create impactful solutions.  
-🎯 Currently gearing up for my own startup **BookMyTickets**  to build it and  diving deeper into the tech universe. 🚀  
+🎯 Currently gearing up for my own startup ****  to build it and  diving deeper into the tech universe. 🚀  
 
 ---
 
