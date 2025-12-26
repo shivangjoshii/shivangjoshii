@@ -22,7 +22,11 @@
 - **📈 Miscellaneous:**  
   🧠 Data Structures & Algorithms | 🏗️ System Design | 🌐 IoT  
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shivangjoshii&show_icons=true&hide_title=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangjoshii&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🌟 What Makes Me Tick?  
 - ✨ Transforming ideas into innovative solutions.  
