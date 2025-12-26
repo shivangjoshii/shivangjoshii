@@ -22,10 +22,10 @@
 - **📈 Miscellaneous:**  
   🧠 Data Structures & Algorithms | 🏗️ System Design | 🌐 IoT  
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivangjoshii&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub followers](https://img.shields.io/github/followers/shivangjoshii?style=social)
+![GitHub stars](https://img.shields.io/github/stars/shivangjoshii?style=social)
+![GitHub forks](https://img.shields.io/github/forks/shivangjoshii?style=social)
+
 
 
 ## 🌟 What Makes Me Tick?  
