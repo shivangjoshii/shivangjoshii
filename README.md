@@ -24,7 +24,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/shivangjoshii?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/shivangjoshii?style=social)
-![GitHub forks](https://img.shields.io/github/forks/shivangjoshii?style=social)
+![GitHub Streak](https://streak-stats.demolab.com?user=shivangjoshii&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivangjoshii&theme=radical)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivangjoshii&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivangjoshii&layout=compact)
 
 
 
