@@ -25,7 +25,7 @@
 
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivangjoshii&theme=radical)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivangjoshii&theme=react-dark)
+![Activity Graph]([https://activity-graph.herokuapp.com/graph?username=shivangjoshii&theme=react-dark](https://streak-stats.demolab.com/?user=shivangjoshii&theme=radical))
 
 
 
