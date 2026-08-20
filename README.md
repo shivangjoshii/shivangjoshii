@@ -1,37 +1,108 @@
-<!-- ================================================================= -->
-<!--               ANIMATED PARTICLE & WAVE CYBER HEADER               -->
-<!-- ================================================================= -->
+<!-- HEADER GIF -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,50:161B22,100:00F5FF&height=260&section=header&text=PAWAN%20%E2%80%A2%20SHIVANG%20JOSHI&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Architecting%20Intelligent%20Systems%20%7C%20AI%20%C2%B7%20Full-Stack%20%C2%B7%20IoT&descAlignY=62&descAlign=50&stroke=00F5FF&strokeWidth=2" width="100%" alt="Header" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="220" style="object-fit: cover;" alt="Header Animation" />
 </div>
 
-<!-- ================================================================= -->
-<!--                    DYNAMIC TERMINAL TYPING BAR                    -->
-<!-- ================================================================= -->
-<p align="center">
-  <a href="https://github.com/shivangjoshii">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%A1+Initializing+Neural+Pipelines+%26+Deep+Learning+Models...;%F0%9F%9A%80+Architecting+High-Performance+Distributed+Web+Apps...;%F0%9F%9B%A0%EF%B8%8F+Tinkering+with+Embedded+IoT+Sensors+%26+Robotics...;%F0%9F%8C%9F+Turning+Complex+Logic+into+Intuitive+Digital+Products." alt="Typing SVG" />
-  </a>
-</p>
+<br/>
 
-<!-- ================================================================= -->
-<!--                         SOCIAL MATRIX                             -->
-<!-- ================================================================= -->
+<!-- NAME & BIO -->
+<div align="center">
+  <h1>Pawan Kumar</h1>
+  <p><b>ID:</b> <code>shivangjoshii</code></p>
+  <p>Full-Stack Engineer & Product Builder crafting high-performance web, mobile, and intelligent systems.</p>
+</div>
+
+<!-- ANIMATED TYPING LINE -->
 <p align="center">
-  <a href="https://mrpawan.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00F5FF&labelColor=0D1117" alt="Portfolio" /></a>
-  <a href="https://github.com/shivangjoshii"><img src="https://img.shields.io/badge/💻_GitHub_Network-000000?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/💼_LinkedIn_Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0D1117" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/📬_Direct_Ping-000000?style=for-the-badge&logo=minutemailer&logoColor=00F5FF&labelColor=0D1117" alt="Email" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=40&lines=Building+scalable+full-stack+web+apps...;Architecting+cross-platform+mobile+experiences...;Deploying+production-grade+software." alt="Typing Animation" />
 </p>
 
 ---
 
-## ⚡ System Diagnostics & Identity
+<!-- SKILLS SECTION -->
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,django" alt="Web Skills" />
+</p>
 
-```yaml
-system_spec:
-  user: "Pawan (shivangjoshii)"
-  role: "Product Architect & Full-Stack Intelligence Engineer"
-  primary_focus: ["Autonomous AI Systems", "Scalable Microservices", "Edge IoT Ecosystems"]
-  current_mission: "Bootstrapping tech ventures from 0 to 1 with production-grade engineering"
-  status: "🟢 ONLINE // Available for high-impact collaborations"
+### 📱 App Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin" alt="App Skills" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,androidstudio,apple,postman,docker,figma" alt="Tools" />
+</p>
+
+---
+
+<!-- PROJECTS SECTION -->
+### 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+      <a href="https://github.com/shivangjoshii">
+        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80" width="100%" style="border-radius: 6px; aspect-ratio: 16/9; object-fit: cover;" alt="Project 1" />
+      </a>
+      <h3 style="margin-top: 10px; margin-bottom: 6px;">⚡ Nexus Analytics Engine</h3>
+      <p style="color: #8b949e; font-size: 13px; min-height: 48px;">
+        High-throughput data intelligence pipeline featuring real-time stream processing, live dashboards, and predictive telemetry models.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <p align="right">
+        <a href="https://github.com/shivangjoshii"><img src="https://img.shields.io/badge/Source-Code-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live-Demo%20%E2%86%92-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 12px; border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+      <a href="https://github.com/shivangjoshii">
+        <img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&auto=format&fit=crop&q=80" width="100%" style="border-radius: 6px; aspect-ratio: 16/9; object-fit: cover;" alt="Project 2" />
+      </a>
+      <h3 style="margin-top: 10px; margin-bottom: 6px;">📱 Pulse Mobile Ecosystem</h3>
+      <p style="color: #8b949e; font-size: 13px; min-height: 48px;">
+        Offline-first cross-platform mobile suite with end-to-end encryption, background syncing, and sub-10ms localized state queries.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      </p>
+      <p align="right">
+        <a href="https://github.com/shivangjoshii"><img src="https://img.shields.io/badge/Source-Code-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live-Demo%20%E2%86%92-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- STATS SECTION -->
+### 📊 Activity & Performance
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivangjoshii&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Commit Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivangjoshii&theme=tokyonight" width="49%" alt="Profile Performance" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivangjoshii&theme=tokyonight" width="49%" alt="Top Commit Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivangjoshii&theme=tokyonight" width="49%" alt="Commit & Repo Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivangjoshii&theme=tokyonight" width="49%" alt="Repos Per Language" />
+</p>
+
+---
+
+<!-- FOOTER GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Footer Animation" />
+</div>
