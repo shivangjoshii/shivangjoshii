@@ -86,9 +86,7 @@
 <!-- STATS SECTION -->
 ### 📊 Activity & Performance
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivangjoshii&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Commit Activity Graph" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivangjoshii&theme=tokyonight" width="49%" alt="Profile Performance" />
